@@ -1,7 +1,7 @@
 # VAIDA-EACL-2023
 This repository contains supplementary files for the paper Real-Time Visual Feedback to Guide Benchmark Creation: A Human-and-Metric-in-the-Loop Workflow, published in EACL 2023.
 
-##Data
+## Data
 
 - Crowd: Conventional Crowdsourcing Ablation Round
 - Traffic: Only Traffic Signal (RYG) Visual Feedback Ablation Round
@@ -16,12 +16,12 @@ Note:
 - Files with the suffix 'Old' contain the original SNLI samples for reference
 - Files with the suffix 'New' contain data created in ablation rounds
 
-##Video
+## Video
 
 - CrowdWorker.mp4 : Contains demo for crowdworker interface
 - Analyst.mp4 : Contains demo for all visual interfaces available to the analyst
 
-##Results
+## Results
 
 - DQI_Study_Results contains the following information
         - Term Explanations : Key for DQI Component Representations
@@ -35,11 +35,11 @@ Note:
 
 - Pre-existing Samples contains the 100 samples present in the system during the user study
 
-##Code
+## Code
 
 Contains python notebooks and pre-processed files of Pre-existing Samples to calculate the DQI parameters.
 
-###Supplementary material
+### Supplementary material
 
 The following supplemental information is present in the appendix of the main paper (see link: PUT ARXIV HERE):
 
