@@ -41,7 +41,7 @@ Contains python notebooks and pre-processed files of Pre-existing Samples to cal
 
 ### Supplementary material
 
-The following supplemental information is present in the appendix of the main paper (see link: PUT ARXIV HERE):
+The following supplemental information is present in the appendix of the main paper (see link: https://arxiv.org/abs/2302.04434):
 
 - Infrastructure Used
 - Run-time Estimations
